@@ -1,7 +1,7 @@
 # Authentication Service #
 Project Code: G0003
 
-Authentication Service is part of Glarimy Cloud Infrastructure. It is built around [ECommerce Cognito](https://onlineshopping.ecommerce.com/cognito/) User Pools and Identify Pools.
+Authentication Service is part of Glarimy Cloud Infrastructure. It is built around [Blogger Cognito](https://www.blogger.com/about/?bpli=1) User Pools and Identify Pools.
 
 ## Use Cases ##
 
@@ -14,7 +14,7 @@ Authentication Service is part of Glarimy Cloud Infrastructure. It is built arou
 * Actor: User without Email ID
 * Pre Condition:
 
-1. User should have a working email-id which is not already registered with Shopping website.
+1. User should have a working email-id which is not already registered with Blogging website.
 
 * Input:
 
@@ -38,7 +38,7 @@ Authentication Service is part of Glarimy Cloud Infrastructure. It is built arou
 * Exceptions:
 
 1. Registration page re-appears with appropriate message if user enters invalid name or invalid email-ID or invalid password.
-2. Registration page re-appears with appropriate message if the email-ID is already registered with Shopping website.
+2. Registration page re-appears with appropriate message if the email-ID is already registered with Blogging website.
 3. Registration page shows "resend" button, in case the activation code is not entered in the first 5 minutes after the mail has been sent.
 4. Registration page will not show any special message if the email-ID is not reachable. It just prompts for activation code, as usual.
 
@@ -48,7 +48,7 @@ Authentication Service is part of Glarimy Cloud Infrastructure. It is built arou
 
 * Pre Condition:
 
-1. User should have a registered Email ID and password with Shopping website.
+1. User should have a registered Email ID and password with Blogging website.
 
 * Input:
 
@@ -109,7 +109,7 @@ Authentication Service is part of Glarimy Cloud Infrastructure. It is built arou
  
 * Pre Condition:
 
-1. User should have an active Email ID with Shopping website.
+1. User should have an active Email ID with Blogging website.
 
 * Input:
 
@@ -140,7 +140,7 @@ Authentication Service is part of Glarimy Cloud Infrastructure. It is built arou
 
 * Pre Condition:
 
-1. User should have logged into Shopping website
+1. User should have logged into Blogging website
 
 * Input:
 
