@@ -1,7 +1,7 @@
 # Authentication Service #
 Project Code: G0003
 
-Authentication Service is part of Glarimy Cloud Infrastructure. It is built around [AWS Cognito](https://onlineshopping.ecommerce.com/cognito/) User Pools and Identify Pools.
+Authentication Service is part of Glarimy Cloud Infrastructure. It is built around [ECommerce Cognito](https://onlineshopping.ecommerce.com/cognito/) User Pools and Identify Pools.
 
 ## Use Cases ##
 
