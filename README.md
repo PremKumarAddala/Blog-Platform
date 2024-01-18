@@ -1,7 +1,7 @@
 # Authentication Service #
 Project Code: G0003
 
-Authentication Service is part of Glarimy Cloud Infrastructure. It is built around [Blogger Cognito](https://www.blogger.com/about/?bpli=1) User Pools and Identify Pools.
+Authentication Service is part of Blog Platform. It is built around [Blogger Cognito](https://www.blogger.com/about/?bpli=1) User Pools and Identify Pools.
 
 ## Use Cases ##
 
