@@ -6,7 +6,7 @@ Authentication Service is part of Blog Platform. It is built around [Blogger Cog
 ## Use Cases ##
 
 ### Use Case Diagram ###
-![usecases.png](https://bitbucket.org/repo/qEdkgrG/images/1924135576-usecases.png)
+![usecases.png](usecase.png)
 
 ## User Stories ##
 ### G0003-001: Register ###
