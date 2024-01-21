@@ -227,7 +227,7 @@ Authentication Service is part of Blog Platform. It is built around [Blogger Cog
 ## Workflow ##
 
 ### Workflow Diagram ###
-![Workflow.png](https://bitbucket.org/repo/qEdkgrG/images/580717476-Workflow.png)
+![Workflow.png](workflow.png)
 
 ## Development ##
 
